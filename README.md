@@ -16,10 +16,10 @@ This project recognizes American Sign Language (ASL) alphabets (A–Z) in real t
 - 26 classes (A–Z)
 
 ## How to Run
-python cam.py
-python data_preparation.py
-python train.py
-python real_time_detection.py
+- python cam.py
+- python data_preparation.py
+- python train.py
+- python real_time_detection.py
 
 
 ## Model
